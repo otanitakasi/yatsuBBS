@@ -2,10 +2,15 @@
 // 谷津BBSプログラム
 ////////////////////
 
-npm init
 npm install
 npm run build
 -> 詳細 -> package.jsonを参照
 
 ・サーバー実行
 node bbs-server.js
+
+・MYSQLServer、ApacheWebServer実行
+XAMPPプログラムからrun
+
+・掲示板へのアクセス
+ブラウザからhttp://localhost:3000/にアクセス

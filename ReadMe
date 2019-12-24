@@ -1,0 +1,11 @@
+/////////////////////
+// 谷津BBSプログラム
+////////////////////
+
+npm init
+npm install
+npm run build
+-> 詳細 -> package.jsonを参照
+
+・サーバー実行
+node bbs-server.js
